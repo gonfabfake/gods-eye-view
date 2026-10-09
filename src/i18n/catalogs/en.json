@@ -1,0 +1,10 @@
+{
+  "language.label": "Language",
+  "language.en": "English",
+  "language.pt-BR": "Portuguese (Brazil)",
+  "language.es": "Spanish",
+  "language.zh-CN": "Simplified Chinese",
+  "status.loading": "Loading...",
+  "status.error": "Something went wrong.",
+  "status.retry": "Try again"
+}

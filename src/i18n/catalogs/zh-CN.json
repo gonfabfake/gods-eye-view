@@ -1,0 +1,10 @@
+{
+  "language.label": "语言",
+  "language.en": "英语",
+  "language.pt-BR": "巴西葡萄牙语",
+  "language.es": "西班牙语",
+  "language.zh-CN": "简体中文",
+  "status.loading": "正在加载...",
+  "status.error": "发生错误。",
+  "status.retry": "重试"
+}
